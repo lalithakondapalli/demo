@@ -1,1 +1,4 @@
+
  my text file on b1 branch
+=======
+ now i am creating text file on master branch
