@@ -1,1 +1,5 @@
-here there is a content on file4 on b1 branch
+<<<<<<< HEAD
+here there is a content on file4 is modifed on b1 branch
+=======
+ am adding the 4th file on master 
+>>>>>>> master
