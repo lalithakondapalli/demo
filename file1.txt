@@ -1,2 +1,3 @@
  my first file on the instance with git 
 modification done on text file
+3rd line is added
